@@ -1,0 +1,19 @@
+{
+  "name": "Query Search in Node Express API",
+  "version": "1.0.0",
+  "description": "This show a simple way to write a search query in Node Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": ["Node", "Express", "Query", "Search", "API"],
+  "author": "Ubani U. Friday",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
